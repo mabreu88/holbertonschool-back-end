@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-""" 1-export_to_CSV
-
-    Export data in the CSV format.
-"""
+""" Export data in the CSV format. """
 import csv
 import requests
 import sys
